@@ -119,6 +119,7 @@
 <div align="center">
   <br>
   <a href="https://github.com/Dono0530">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dono0530&theme=tokyonight" alt="profile details" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dono0530&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dono0530&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
   </a>
