@@ -79,6 +79,9 @@
 	<a href="https://github.com/Joshua-Hermilly/MateZone">
 		<img src="https://img.shields.io/badge/VOIR_LE_CODE-MateZone-FF4081?style=for-the-badge&logo=github&logoColor=white" />
 	</a>
+	<a href="https://www.m8yuriko.fr">
+		<img src="https://img.shields.io/badge/VISITER_LE_SITE-MATEZONE-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
+	</a>
 </div>
 
 ---
