@@ -136,3 +136,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0061ff,100:60efff&height=150&section=footer&text=Merci%20de%20la%20visite%20!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+</div>
