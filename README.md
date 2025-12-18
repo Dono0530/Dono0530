@@ -11,6 +11,8 @@
 
 <br>
 
+---
+
 <h3 align="center">👋 À propos de moi</h3>
 
 <p align="center">
