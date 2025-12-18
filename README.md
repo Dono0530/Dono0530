@@ -1,12 +1,13 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0061ff,100:60efff&height=250&section=header&text=Donovan%20Prévost&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=50&fontColor=ffffff" />
+
+  <br>
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0061ff,100:60efff&height=250&section=header&text=Donovan%20Prévost&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=50&fontColor=ffffff" />
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F51B5&center=true&vCenter=true&width=700&lines=Étudiant+BUT+Informatique+au+Havre+🎓;Développeur+Junior+💻;Co-créateur+de+MateZone+🚀;En+recherche+de+stage+💼" alt="Typing SVG" />
-</a>
-
+  <a href="https://github.com/Dono0530">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F51B5&center=true&vCenter=true&width=650&lines=%C3%89tudiant+BUT+Informatique+au+Havre+%F0%9F%8E%93;D%C3%A9veloppeur+Junior+%F0%9F%92%BB;Co-cr%C3%A9ateur+de+MateZone+%F0%9F%9A%80;En+recherche+de+stage+%F0%9F%92%BC" alt="Typing SVG" />
+  </a>
 </div>
+<br>
 
 <br>
 
