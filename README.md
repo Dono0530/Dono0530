@@ -19,6 +19,12 @@
    Co-créateur du projet <b>MateZone</b>, je cherche aujourd'hui un <b>stage</b> pour mettre ma technique et mon esprit d'équipe au service de vos projets.
 </p>
 
+<p align="center">
+  <a href="https://dono0530.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Découvrir-FF6B6B?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 <h3 align="center">🛠️ Stack Technique</h3>
@@ -61,38 +67,48 @@
 
 ---
 
-<h3 align="center">🏆 Projet Phare</h3>
+<h3 align="center">🌟 Projet Phare</h3>
 
-<div align="center">
-	<a href="https://github.com/Joshua-Hermilly/MateZone">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Joshua-Hermilly&repo=MateZone&theme=tokyonight&show_owner=true" />
-	</a>
-<p align="center">
-	<b>MateZone</b> est une application de chat temps réel développée en Java utilisant les WebSockets.<br>
-	<i>Un projet technique complet suivant une architecture hexagonale, avec persistance MySQL et gestion d'images.</i>
-	</p>
-	<p>
-		<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-		<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-		<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-	</p>
-	<a href="https://github.com/Joshua-Hermilly/MateZone">
-		<img src="https://img.shields.io/badge/VOIR_LE_CODE-MateZone-FF4081?style=for-the-badge&logo=github&logoColor=white" />
-	</a>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img width="120" src="https://github.com/user-attachments/assets/5da0d209-698b-48a2-94f5-da5d5a838354" alt="MateZone Logo" />
+      <br>
+      <h2>MateZone</h2>
+      <p>
+        <b>Chat temps réel en Java (WebSockets)</b><br>
+        Architecture hexagonale • Persistance MySQL
+      </p>
+      <a href="https://github.com/Joshua-Hermilly/MateZone">
+        <img src="https://img.shields.io/badge/CODE-MateZone-FF4081?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br>
 	<a href="https://www.m8yuriko.fr">
 		<img src="https://img.shields.io/badge/VISITER_LE_SITE-MATEZONE-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
-	</a>
-</div>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Joshua-Hermilly/MateZone">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joshua-Hermilly&repo=MateZone&theme=tokyonight&show_owner=false" />
+      </a>
+      <br>
+      <br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h3 align="center">💻 Autres Projets Académiques</h3>
+<h3 align="center">💻 Projets Académiques</h3>
 
-| Projet | Description | Technologies |
-| :--- | :--- | :--- |
-| 🎮 **Jeu de Plateforme 2D** | Création complète d'un jeu vidéo avec gestion de la physique et des collisions. | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> |
-| 📊 **Gestionnaire MPM** | Application permettant la création et la gestion de diagrammes de projet. | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> |
-| 🐳 **Déploiement Docker** | Déploiement d'applications conteneurisées et virtualisation sous Linux. | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />|
+| Projet | Description | Technologies | Lien |
+| :--- | :--- | :--- | :---: |
+| 🎮 **Jeu de Plateforme 2D** | Création complète d'un jeu vidéo avec gestion de la physique et des collisions. | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25"/> | <a href="https://github.com/Dono0530/S1.01-Platformer"><img src="https://img.shields.io/badge/GITHUB-Voir_le_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="25"/></a> |
+| 📊 **Gestionnaire MPM** | Application permettant la création et la gestion de diagrammes de projet. | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25"/> | <a href="https://github.com/Dono0530/S2.01-S2.02-S2.05-MPM"><img src="https://img.shields.io/badge/GITHUB-Voir_le_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="25"/></a> |
+| 🐳 **Déploiement Docker** | Déploiement d'applications conteneurisées et virtualisation sous Linux. | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25"/> | <img src="https://img.shields.io/badge/🔒_CODE-Non_Disponible-gray?style=for-the-badge" height="25"/> |
 
 ---
 
