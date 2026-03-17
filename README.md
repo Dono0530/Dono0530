@@ -50,9 +50,9 @@
 <br>
 
 **Frameworks & Outils** <br>
-<img src="https://img.shields.io/badge/Symfony_(En_cours)-000000?style=for-the-badge&logo=symfony&logoColor=white" />
+<img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_Studio_(En_cours)-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 
 
 <br>
