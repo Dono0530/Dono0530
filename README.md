@@ -100,6 +100,29 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     </td>
   </tr>
+<tr>
+    <td align="center" width="50%">
+      <img width="120" src="https://github.com/user-attachments/assets/c6426530-e83b-4ce6-a524-cec4901109f0" alt="MateSpace Logo" />
+      <br>
+      <h2>MateSpace</h2>
+      <p>
+        <b>Jeu de tir spatial pour Android</b><br>
+			Survivez aux vagues d'ennemis !
+      </p>
+      <a href="https://github.com/Dono0530/MateSpace">
+        <img src="https://img.shields.io/badge/CODE-MateSpace-FF4081?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Dono0530/MateSpace">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dono0530&repo=MateSpace&theme=tokyonight&show_owner=false" />
+      </a>
+      <br>
+      <br>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
 ---
