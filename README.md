@@ -4,7 +4,7 @@
   <br>
   
   <a href="https://github.com/Dono0530">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F51B5&center=true&vCenter=true&width=650&lines=%C3%89tudiant+de+BUT+Informatique+au+Havre+%F0%9F%8E%93;D%C3%A9veloppeur+Junior+%F0%9F%92%BB;Co-cr%C3%A9ateur+de+MateZone+%F0%9F%9A%80;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F51B5&center=true&vCenter=true&width=650&lines=%C3%89tudiant+de+BUT+Informatique+%F0%9F%8E%93;D%C3%A9veloppeur+Junior+%F0%9F%92%BB;Co-cr%C3%A9ateur+de+MateZone+%F0%9F%9A%80;" alt="Typing SVG" />
   </a>
 </div>
 <br>
