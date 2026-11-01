@@ -16,7 +16,7 @@
 <h3 align="center">👋 À propos de moi</h3>
 
 <p align="center">
-   Étudiant de 19 ans en <b>BUT Informatique à l'Université du Havre</b>, je suis un développeur curieux et rigoureux. <br>
+   Étudiant de 20 ans en <b>BUT Informatique à l'Université du Havre</b>, je suis un développeur curieux et rigoureux. <br>
    J'aime concevoir des architectures logicielles propres, que ce soit en <b>Java</b> ou en <b>PHP</b> pour le Web. <br>
    Co-créateur du projet <b>MateZone</b>.
 </p>
