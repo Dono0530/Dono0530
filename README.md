@@ -1,27 +1,8 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Bannière Donovan Prévost" width="100%">
+<img src="assets/profile-banner.svg" alt="Donovan Prévost — étudiant en BUT Informatique" width="100%">
 
-</div>
-
-<div align="center">
-
-<h3>MES TECHNOLOGIES</h3>
-
-<marquee behavior="scroll" direction="right" scrollamount="4" aria-label="Technologies défilant de gauche à droite">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="28" height="28" alt="Java"> Java　&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="28" height="28" alt="PHP"> PHP　&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript"> JavaScript　&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28" height="28" alt="HTML5"> HTML5　&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28" height="28" alt="CSS3"> CSS3　&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="28" height="28" alt="Vue.js"> Vue.js　&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="28" height="28" alt="Angular"> Angular　&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="28" height="28" alt="Symfony"> Symfony　&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28" height="28" alt="MySQL"> MySQL　&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="28" height="28" alt="PostgreSQL"> PostgreSQL　&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28" height="28" alt="Docker"> Docker　&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" height="28" alt="Git"> Git
-</marquee>
+<img src="assets/skills-marquee.svg" alt="Logos et noms de mes technologies, en défilement de gauche à droite" width="100%">
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visiter-EC4C9B?style=for-the-badge)](https://dono0530.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Contact-167DB5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donovan-pr%C3%A9vost/)
@@ -46,71 +27,69 @@ J’aime transformer un besoin en solution concrète, avec une attention particu
 
 <img src="assets/neon-divider.svg" width="100%" alt="">
 
-<div align="center"><img src="assets/section-projects.svg" width="100%" alt="02 — Projets phares"></div>
+<div align="center"><img src="assets/section-projects.svg" width="100%" alt="02 — Projets principaux"></div>
 
-### <img src="https://img.shields.io/badge/01- PROJET_PHARE-EC4C9B?style=for-the-badge" alt="Projet phare"> MateZone
+<a href="https://github.com/Joshua-Hermilly/MateZone">
+<img src="assets/project-matezone.svg" alt="MateZone — application de chat en temps réel en Java avec WebSockets, architecture hexagonale et MySQL." width="100%">
+</a>
 
-**Chat en temps réel · Java · WebSockets · MySQL**
-
-Application de discussion développée en Java, avec échanges WebSocket, architecture hexagonale et persistance MySQL.
+<div align="center">
 
 [**Voir le code ↗**](https://github.com/Joshua-Hermilly/MateZone)　·　[Visiter le site](https://www.m8yuriko.fr)
 
+</div>
+
 <img src="assets/neon-divider.svg" width="100%" alt="">
 
-### <img src="https://img.shields.io/badge/02-APPLICATION_WEB-167DB5?style=for-the-badge" alt="Application web"> Profilage Parcoursup
+<a href="https://github.com/Dono0530/Profilage-Parcoursup">
+<img src="assets/project-parcoursup.svg" alt="Profilage Parcoursup — application web PHP 8 organisée en MVC avec PostgreSQL, Twig et JavaScript." width="100%">
+</a>
 
-**Application web · PHP 8 · PostgreSQL · Twig · JavaScript**
-
-Outil de profilage et de visualisation de données de candidature, structuré selon une architecture MVC.
+<div align="center">
 
 [**Voir le dépôt ↗**](https://github.com/Dono0530/Profilage-Parcoursup)
 
+</div>
+
 <img src="assets/neon-divider.svg" width="100%" alt="">
 
-### <img src="https://img.shields.io/badge/03-JEU_MOBILE-EC4C9B?style=for-the-badge" alt="Jeu mobile"> MateSpace
+<a href="https://github.com/Dono0530/MateSpace">
+<img src="assets/project-matespace.svg" alt="MateSpace — jeu de tir spatial Android développé en Java." width="100%">
+</a>
 
-**Jeu Android · Java**
-
-Jeu de tir spatial où le joueur pilote un vaisseau et tente de survivre à des vagues d’ennemis.
+<div align="center">
 
 [**Voir le dépôt ↗**](https://github.com/Dono0530/MateSpace)
 
-<img src="assets/neon-divider.svg" width="100%" alt="">
+</div>
 
 <img src="assets/neon-divider.svg" width="100%" alt="">
 
-<div align="center"><img src="assets/section-academic.svg" width="100%" alt="04 — Autres projets"></div>
+<div align="center"><img src="assets/section-academic.svg" width="100%" alt="03 — Projets académiques"></div>
 
-### 🎮 Jeu de Plateforme 2D
-Jeu vidéo avec gestion de la physique et des collisions.  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="22" alt="Java"> Java　·　[Ouvrir le dépôt ↗](https://github.com/Dono0530/S1.01-Platformer)
+<a href="https://github.com/Dono0530/S1.01-Platformer">
+<img src="assets/project-platformer.svg" alt="Jeu de Plateforme 2D — jeu vidéo Java avec gestion de la physique et des collisions." width="100%">
+</a>
 
-<img src="assets/neon-divider.svg" width="100%" alt="">
-
-### 📊 Gestionnaire MPM
-Application de création et de gestion de diagrammes de projet.  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="22" alt="Java"> Java　·　[Ouvrir le dépôt ↗](https://github.com/Dono0530/S2.01-S2.02-S2.05-MPM)
+<div align="center">[Ouvrir le dépôt ↗](https://github.com/Dono0530/S1.01-Platformer)</div>
 
 <img src="assets/neon-divider.svg" width="100%" alt="">
 
-### 🐳 Déploiement Docker
-Déploiement d’applications conteneurisées et virtualisation sous Linux.  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="22" alt="Docker"> Docker · Java · Code non public
+<a href="https://github.com/Dono0530/S2.01-S2.02-S2.05-MPM">
+<img src="assets/project-mpm.svg" alt="Gestionnaire MPM — application Java de création et gestion de diagrammes de projet." width="100%">
+</a>
+
+<div align="center">[Ouvrir le dépôt ↗](https://github.com/Dono0530/S2.01-S2.02-S2.05-MPM)</div>
+
+<img src="assets/neon-divider.svg" width="100%" alt="">
+
+<img src="assets/project-docker.svg" alt="Déploiement Docker — déploiement d’applications conteneurisées et virtualisation sous Linux. Code non public." width="100%">
 
 <img src="assets/neon-divider.svg" width="100%" alt="">
 
 <div align="center"><img src="assets/section-education.svg" width="100%" alt="04 — Formation"></div>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/BUT_INFORMATIQUE-167DB5?style=for-the-badge" alt="BUT Informatique">
-
-### Université du Havre
-
-Développement logiciel · applications web · applications mobiles
-
-</div>
+<img src="assets/education.svg" alt="Formation — BUT Informatique à l’Université du Havre, développement logiciel, web et mobile." width="100%">
 
 <img src="assets/neon-divider.svg" width="100%" alt="">
 
