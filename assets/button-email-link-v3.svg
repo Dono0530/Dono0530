@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="48" viewBox="0 0 172 48" role="img" aria-label="CONTACT">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#264777"/><stop offset="1" stop-color="#132544"/></linearGradient></defs>
+<rect x="1" y="1" width="170" height="46" rx="13" fill="url(#g)" stroke="#88dfff" stroke-opacity=".62"/><path d="M14 42H158" stroke="#ff8fc0" stroke-opacity=".38"/>
+<path d="M23 19h26v17H23zM23 22l13 9 13-9" fill="none" stroke="#fff" stroke-width="2"/><text x="58" y="29" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing=".5">CONTACT</text></svg>
