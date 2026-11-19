@@ -25,7 +25,7 @@
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="52" height="52" alt="Vue.js">
 &nbsp;&nbsp;&nbsp;
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="52" height="52" alt="Angular">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="52" height="52" alt="Angular">
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="52" height="52" alt="Symfony">
 &nbsp;&nbsp;&nbsp;
@@ -104,7 +104,7 @@ Jeu de tir spatial où le joueur pilote un vaisseau et tente de survivre à des 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="38" alt="Vue.js">
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="38" alt="Angular">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="38" alt="Bootstrap">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twig/twig-original.svg" width="38" alt="Twig">
+<strong>Twig</strong>
 
 ### DONNÉES, OUTILS & ENVIRONNEMENTS
 
