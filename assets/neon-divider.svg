@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="34" viewBox="0 0 1200 34" role="img" aria-label="Séparateur lumineux cyan et rose">
+  <defs><linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#57d9ff" stop-opacity="0"/><stop offset=".25" stop-color="#57d9ff"/><stop offset=".72" stop-color="#b278ff"/><stop offset="1" stop-color="#ff6fae" stop-opacity="0"/></linearGradient></defs>
+  <path d="M0 17H1200" stroke="url(#line)" stroke-width="2"/>
+  <circle cy="17" r="4" fill="#fff">
+    <animate attributeName="cx" values="0;1200;0" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cy="17" r="9" fill="#57d9ff" opacity=".3">
+    <animate attributeName="cx" values="0;1200;0" dur="8s" repeatCount="indefinite"/>
+  </circle>
+</svg>
