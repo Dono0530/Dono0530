@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="236" viewBox="0 0 1200 236" role="img" aria-labelledby="title desc">
+<title id="title">Gestionnaire MPM</title><desc id="desc">Application Java de création et gestion de diagrammes MPM. Elle représente les tâches d’un projet, leurs dépendances et leur ordonnancement. Technologies : Java  ·  Planification  ·  Diagrammes MPM.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08162d"/><stop offset="1" stop-color="#171a36"/></linearGradient><linearGradient id="edge"><stop stop-color="#57d9ff"/><stop offset="1" stop-color="#ff6fae"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="12"/></filter></defs>
+<rect x="2" y="2" width="1196" height="232" rx="22" fill="url(#bg)" stroke="#294367" stroke-width="2"/><rect x="2" y="2" width="7" height="232" rx="4" fill="url(#edge)"/>
+<circle cx="1100" cy="85" r="85" fill="#ff6fae" opacity=".09" filter="url(#glow)"/>
+<rect x="40" y="22" width="230" height="30" rx="15" fill="#ff6fae" fill-opacity=".13" stroke="#ff6fae" stroke-opacity=".68"/>
+<text x="155" y="42" fill="#ff9bc7" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="1">B  /  PROJET ACADÉMIQUE</text>
+<text x="40" y="96" fill="#f5f8ff" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700">Gestionnaire MPM</text>
+<text x="42" y="126" fill="#d4e0f1" font-family="Segoe UI,Arial,sans-serif" font-size="18">Application Java de création et gestion de diagrammes MPM.</text>
+<text x="42" y="154" fill="#d4e0f1" font-family="Segoe UI,Arial,sans-serif" font-size="18">Elle représente les tâches d’un projet, leurs dépendances</text>
+<text x="42" y="182" fill="#d4e0f1" font-family="Segoe UI,Arial,sans-serif" font-size="18">et leur ordonnancement.</text>
+<text x="42" y="215" fill="#ff9bc7" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">Java  ·  Planification  ·  Diagrammes MPM</text>
+<path d="M850 210H1158" stroke="url(#edge)" stroke-opacity=".32" stroke-width="2"/><circle cx="850" cy="210" r="5" fill="#ff9bc7"><animate attributeName="opacity" values=".3;1;.3" dur="3.8s" repeatCount="indefinite"/></circle>
+</svg>
