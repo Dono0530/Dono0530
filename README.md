@@ -38,7 +38,7 @@
 
 <img src="assets/neon-divider.svg" width="100%" alt="">
 
-<div align="center"><img src="assets/section-academic-v2.svg" width="100%" alt="03 — Projets académiques"></div>
+<div align="center"><img src="assets/section-academic-v3.svg" width="100%" alt="03 — Projets académiques"></div>
 
 <a href="https://github.com/Dono0530/S1.01-Platformer">
 <img src="assets/project-platformer-v3.svg" alt="Jeu de Plateforme 2D — Java, physique et collisions. Carte avec bouton vers le dépôt." width="100%">
@@ -56,7 +56,7 @@
 
 <img src="assets/neon-divider.svg" width="100%" alt="">
 
-<div align="center"><img src="assets/section-education-v2.svg" width="100%" alt="04 — Formation"></div>
+<div align="center"><img src="assets/section-education-v3.svg" width="100%" alt="04 — Formation"></div>
 
 <img src="assets/education.svg" alt="BUT Informatique à l’Université du Havre, développement logiciel, web et mobile." width="100%">
 
@@ -64,7 +64,7 @@
 
 <div align="center">
 
-<img src="assets/section-contact-v2.svg" width="100%" alt="05 — Contact">
+<img src="assets/section-contact-v3.svg" width="100%" alt="05 — Contact">
 
 <div>
 <a href="https://dono0530.github.io/Portfolio/"><img src="assets/button-portfolio-v2.svg" alt="Visiter le portfolio" height="52"></a>
