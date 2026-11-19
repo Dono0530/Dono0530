@@ -2,7 +2,7 @@
 
 <img src="assets/profile-banner.svg" alt="Donovan Prévost — étudiant en BUT Informatique" width="100%">
 
-<img src="assets/skills-marquee-v3.svg" alt="Logos et noms des technologies, en plus grand, défilant sous le nom" width="100%">
+<img src="assets/skills-marquee-v4.svg" alt="Logos et noms des technologies, en plus grand, défilant sous le nom" width="100%">
 
 <a href="https://dono0530.github.io/Portfolio/"><img src="assets/button-portfolio-v2.svg" alt="Portfolio" height="52"></a>
 <a href="https://www.linkedin.com/in/donovan-pr%C3%A9vost/"><img src="assets/button-linkedin-v2.svg" alt="LinkedIn" height="52"></a>
@@ -14,7 +14,7 @@
 
 <div align="center"><img src="assets/section-about.svg" width="100%" alt="01 — Profil"></div>
 
-<img src="assets/profile-card-v2.svg" alt="Étudiant en BUT Informatique au Havre. Je conçois des applications web, mobiles et logicielles en privilégiant le code structuré, l’expérience utilisateur et le travail d’équipe." width="100%">
+<img src="assets/profile-card-v3.svg" alt="Étudiant en BUT Informatique au Havre. Je conçois des applications web, mobiles et logicielles en privilégiant le code structuré, l’expérience utilisateur et le travail d’équipe." width="100%">
 
 <p>Étudiant de 20 ans en <b>BUT Informatique à l’Université du Havre</b>, je suis curieux et rigoureux. Je m’intéresse à la conception d’architectures logicielles propres, au développement web en Java et PHP, ainsi qu’à la création d’applications mobiles. Je suis également co-créateur de <b>MateZone</b>.</p>
 
