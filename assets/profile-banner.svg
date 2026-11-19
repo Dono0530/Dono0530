@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Donovan Prévost — Informatique</title>
+  <desc id="desc">Bannière bleu nuit, cyan et rose présentant un étudiant en informatique.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071326"/>
+      <stop offset=".55" stop-color="#10264a"/>
+      <stop offset="1" stop-color="#281535"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#57d9ff"/>
+      <stop offset=".52" stop-color="#829bff"/>
+      <stop offset="1" stop-color="#ff6fae"/>
+      <animate attributeName="x1" values="0;-.4;0" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;1.4;1" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#a8dfff" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="1015" cy="80" r="135" fill="#e84d9c" opacity=".17" filter="url(#glow)"/>
+  <circle cx="935" cy="295" r="150" fill="#36c8fa" opacity=".14" filter="url(#glow)"/>
+  <path d="M0 300 C250 255 360 365 620 300 S990 250 1200 290" fill="none" stroke="url(#accent)" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M0 307 C250 262 360 372 620 307 S990 257 1200 297" fill="none" stroke="url(#accent)" stroke-opacity=".22" stroke-width="8">
+    <animate attributeName="stroke-opacity" values=".12;.38;.12" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <rect x="72" y="63" width="5" height="226" rx="3" fill="url(#accent)"/>
+  <text x="108" y="143" fill="#f5f8ff" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="1">DONOVAN PRÉVOST</text>
+  <text x="111" y="194" fill="#c6d7f2" font-family="Segoe UI, Arial, sans-serif" font-size="24">Étudiant en BUT Informatique · Développement logiciel</text>
+  <rect x="110" y="226" width="157" height="36" rx="18" fill="#57d9ff" fill-opacity=".12" stroke="#57d9ff" stroke-opacity=".65"/>
+  <text x="188" y="250" fill="#83e5ff" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" text-anchor="middle">WEB &amp; LOGICIEL</text>
+  <rect x="279" y="226" width="133" height="36" rx="18" fill="#ff6fae" fill-opacity=".12" stroke="#ff6fae" stroke-opacity=".65"/>
+  <text x="345" y="250" fill="#ff9bc7" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" text-anchor="middle">PROJETS</text>
+  <circle cx="1030" cy="177" r="87" fill="#0b1830" fill-opacity=".7" stroke="url(#accent)" stroke-width="2"/>
+  <circle cx="1030" cy="177" r="70" fill="none" stroke="#d4e7ff" stroke-opacity=".16"/>
+  <text x="1030" y="194" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" text-anchor="middle">DP</text>
+  <circle cx="1100" cy="112" r="5" fill="#ff6fae">
+    <animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
