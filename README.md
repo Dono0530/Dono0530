@@ -10,7 +10,7 @@
 
 <img src="assets/neon-divider.svg" width="100%" alt="">
 
-<h2 align="center">01 &nbsp; PROFIL</h2>
+<div align="center"><img src="assets/section-about.svg" width="100%" alt="01 — Profil"></div>
 
 <div align="center">
 
@@ -25,7 +25,7 @@ J’aime transformer un besoin en solution concrète, avec une attention particu
 
 <img src="assets/neon-divider.svg" width="100%" alt="">
 
-<h2 align="center">02 &nbsp; PROJETS PHARES</h2>
+<div align="center"><img src="assets/section-projects.svg" width="100%" alt="02 — Projets phares"></div>
 
 <table>
 <tr>
@@ -84,11 +84,11 @@ Jeu de tir spatial où le joueur pilote un vaisseau et tente de survivre à des 
 
 <img src="assets/neon-divider.svg" width="100%" alt="">
 
-<h2 align="center">03 &nbsp; COMPÉTENCES</h2>
+<div align="center"><img src="assets/section-skills.svg" width="100%" alt="03 — Compétences"></div>
 
 <div align="center">
 
-### LANGAGES
+### <span style="color:#57d9ff">LANGAGES</span>
 
 <img src="https://img.shields.io/badge/Java-167DB5?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/PHP-EC4C9B?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -117,7 +117,7 @@ Jeu de tir spatial où le joueur pilote un vaisseau et tente de survivre à des 
 
 <img src="assets/neon-divider.svg" width="100%" alt="">
 
-<h2 align="center">04 &nbsp; AUTRES PROJETS</h2>
+<div align="center"><img src="assets/section-academic.svg" width="100%" alt="04 — Autres projets"></div>
 
 <table>
 <tr>
@@ -160,21 +160,20 @@ Code non public
 
 <img src="assets/neon-divider.svg" width="100%" alt="">
 
-<h2 align="center">05 &nbsp; FORMATION</h2>
+<div align="center"><img src="assets/section-education.svg" width="100%" alt="05 — Formation"></div>
 
 <div align="center">
 
 <table>
-<tr>
-<td align="center">
+<tr><td align="center" width="100%">
 
-<img src="https://img.shields.io/badge/FORMATION-EC4C9B?style=for-the-badge" alt="Formation">
+<img src="https://img.shields.io/badge/BUT_INFORMATIQUE-167DB5?style=for-the-badge" alt="BUT Informatique">
 
-### BUT Informatique
-**Université du Havre**
+### Université du Havre
 
-</td>
-</tr>
+**Formation en informatique** · développement logiciel, web et mobile
+
+</td></tr>
 </table>
 
 </div>
@@ -183,7 +182,7 @@ Code non public
 
 <div align="center">
 
-<h2>06 &nbsp; CONTACT</h2>
+<img src="assets/section-contact.svg" width="100%" alt="06 — Contact">
 
 Ouvert aux échanges autour du développement logiciel, des projets web et des collaborations.
 
