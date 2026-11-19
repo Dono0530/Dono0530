@@ -71,7 +71,7 @@ J’aime transformer un besoin en solution concrète, avec une attention particu
 <img src="assets/project-platformer.svg" alt="Jeu de Plateforme 2D — jeu vidéo Java avec gestion de la physique et des collisions." width="100%">
 </a>
 
-<div align="center">[Ouvrir le dépôt ↗](https://github.com/Dono0530/S1.01-Platformer)</div>
+<p align="center"><a href="https://github.com/Dono0530/S1.01-Platformer"><strong>Ouvrir le dépôt ↗</strong></a></p>
 
 <img src="assets/neon-divider.svg" width="100%" alt="">
 
@@ -79,7 +79,7 @@ J’aime transformer un besoin en solution concrète, avec une attention particu
 <img src="assets/project-mpm.svg" alt="Gestionnaire MPM — application Java de création et gestion de diagrammes de projet." width="100%">
 </a>
 
-<div align="center">[Ouvrir le dépôt ↗](https://github.com/Dono0530/S2.01-S2.02-S2.05-MPM)</div>
+<p align="center"><a href="https://github.com/Dono0530/S2.01-S2.02-S2.05-MPM"><strong>Ouvrir le dépôt ↗</strong></a></p>
 
 <img src="assets/neon-divider.svg" width="100%" alt="">
 
