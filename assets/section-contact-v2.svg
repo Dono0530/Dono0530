@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="70" viewBox="0 0 1200 70" role="img" aria-label="05  /  CONTACT">
+<defs><linearGradient id="g"><stop stop-color="#57d9ff"/><stop offset="1" stop-color="#ff6fae"/></linearGradient></defs>
+<rect x="1" y="5" width="1198" height="60" rx="15" fill="#0d1b33" stroke="#315078" stroke-opacity=".72"/>
+<rect x="1" y="5" width="8" height="60" rx="4" fill="url(#g)"/>
+<text x="36" y="45" fill="#e8f3ff" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="2">06  /  CONTACT</text>
+<path d="M800 35H1155" stroke="url(#g)" stroke-opacity=".32" stroke-width="2"/>
+<circle cy="35" r="5" fill="#67dcff"><animate attributeName="cx" values="800;1155;800" dur="6s" repeatCount="indefinite"/></circle>
+<circle cy="35" r="12" fill="#ff6fae" opacity=".25"><animate attributeName="cx" values="800;1155;800" dur="6s" repeatCount="indefinite"/></circle>
+</svg>
