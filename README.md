@@ -8,93 +8,114 @@
 
 </div>
 
-## Profil
+## À propos
 
-Étudiant en **BUT Informatique à l’Université du Havre**, je développe des applications web, mobiles et logicielles. J’aime transformer un besoin en solution concrète, avec une attention particulière à la structure du code, à l’expérience utilisateur et au travail en équipe.
+Étudiant en **BUT Informatique à l’Université du Havre**, je développe des applications web, mobiles et logicielles. J’aime transformer un besoin en solution concrète et accorde une attention particulière à la structure du code, à l’expérience utilisateur et au travail en équipe.
 
-## Projets à découvrir
+**Ce qui m’intéresse :** conception logicielle · développement web · applications mobiles · projets collaboratifs
+
+---
+
+## Projets phares
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🚀 MateZone
-**Chat en temps réel**
+### 01 · MateZone
+#### Chat en temps réel
 
-Application de discussion développée en Java, avec WebSockets, architecture hexagonale et persistance MySQL.
+Application de discussion développée en Java, avec échanges WebSocket, architecture hexagonale et persistance MySQL.
 
-**Stack**  
+**Technologies**  
 Java · WebSockets · MySQL
 
-[Code source](https://github.com/Joshua-Hermilly/MateZone) · [Site](https://www.m8yuriko.fr)
+[↗ Code source](https://github.com/Joshua-Hermilly/MateZone)  
+[↗ Site du projet](https://www.m8yuriko.fr)
 
 </td>
 <td width="33%" valign="top">
 
-### 📊 Profilage Parcoursup
-**Application web de données**
+### 02 · Profilage Parcoursup
+#### Application web
 
-Outil de profilage et de visualisation de candidatures, organisé selon une architecture MVC.
+Outil de profilage et de visualisation de données de candidature, structuré selon une architecture MVC.
 
-**Stack**  
+**Technologies**  
 PHP 8 · PostgreSQL · Twig · JavaScript
 
-[Voir le dépôt](https://github.com/Dono0530/Profilage-Parcoursup)
+[↗ Voir le dépôt](https://github.com/Dono0530/Profilage-Parcoursup)
 
 </td>
 <td width="33%" valign="top">
 
-### 🪐 MateSpace
-**Jeu Android**
+### 03 · MateSpace
+#### Jeu Android
 
-Jeu de tir spatial où le joueur pilote un vaisseau et survit à des vagues d’ennemis.
+Jeu de tir spatial dans lequel le joueur pilote un vaisseau et tente de survivre à des vagues d’ennemis.
 
-**Stack**  
+**Technologies**  
 Java · Android
 
-[Voir le dépôt](https://github.com/Dono0530/MateSpace)
+[↗ Voir le dépôt](https://github.com/Dono0530/MateSpace)
 
 </td>
 </tr>
 </table>
 
-## Compétences
+---
 
-<p>
-<img src="https://img.shields.io/badge/Java-1679A8?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/PHP-747DBA?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/JavaScript-E9C94A?style=for-the-badge&logo=javascript&logoColor=20232A" alt="JavaScript">
-<img src="https://img.shields.io/badge/HTML5-D95C76?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-288FC1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
-<p>
-<img src="https://img.shields.io/badge/Symfony-26334A?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
-<img src="https://img.shields.io/badge/Vue.js-3B9B83?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
-<img src="https://img.shields.io/badge/Angular-D94B78?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-<img src="https://img.shields.io/badge/Twig-7FAE72?style=for-the-badge&logo=twig&logoColor=white" alt="Twig">
-</p>
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-3976A8?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MySQL-177EAA?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/Git-E36B78?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Docker-258FC1?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Linux-34435D?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-<img src="https://img.shields.io/badge/Android%20Studio-3E9B83?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
-</p>
+## Stack technique
+
+### Langages
+![Java](https://img.shields.io/badge/Java-1679A8?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-747DBA?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-E9C94A?style=flat-square&logo=javascript&logoColor=20232A)
+![HTML5](https://img.shields.io/badge/HTML5-D95C76?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-288FC1?style=flat-square&logo=css3&logoColor=white)
+
+### Frameworks & interfaces
+![Symfony](https://img.shields.io/badge/Symfony-26334A?style=flat-square&logo=symfony&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-3B9B83?style=flat-square&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-D94B78?style=flat-square&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Twig](https://img.shields.io/badge/Twig-7FAE72?style=flat-square&logo=twig&logoColor=white)
+
+### Données, outils & environnements
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3976A8?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-177EAA?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E36B78?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-258FC1?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-34435D?style=flat-square&logo=linux&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3E9B83?style=flat-square&logo=androidstudio&logoColor=white)
+
+---
 
 ## Projets académiques
 
-| Projet | Description | Technologies | Dépôt |
-| --- | --- | --- | --- |
-| 🎮 **Jeu de Plateforme 2D** | Jeu vidéo avec gestion de la physique et des collisions. | Java | [Consulter](https://github.com/Dono0530/S1.01-Platformer) |
-| 📊 **Gestionnaire MPM** | Création et gestion de diagrammes de projet. | Java | [Consulter](https://github.com/Dono0530/S2.01-S2.02-S2.05-MPM) |
-| 🐳 **Déploiement Docker** | Déploiement d’applications conteneurisées et virtualisation sous Linux. | Docker · Java | Code non public |
+| Projet | Réalisation | Technologies | Accès |
+| :--- | :--- | :--- | :---: |
+| 🎮 **Jeu de Plateforme 2D** | Jeu vidéo avec physique et gestion des collisions | Java | [Dépôt](https://github.com/Dono0530/S1.01-Platformer) |
+| 📊 **Gestionnaire MPM** | Création et gestion de diagrammes de projet | Java | [Dépôt](https://github.com/Dono0530/S2.01-S2.02-S2.05-MPM) |
+| 🐳 **Déploiement Docker** | Déploiement conteneurisé et virtualisation sous Linux | Docker · Java | Code non public |
+
+---
+
+## Formation
+
+**BUT Informatique**  
+Université du Havre
 
 ---
 
 <div align="center">
 
-*Disponible pour échanger autour du développement logiciel et de nouveaux projets.*
+### Échangeons
+
+Intéressé par les projets de développement logiciel et les collaborations.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-EC4C9B?style=flat-square)](https://dono0530.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-167DB5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donovan-pr%C3%A9vost/)
+[![Email](https://img.shields.io/badge/Email-273858?style=flat-square&logo=gmail&logoColor=white)](mailto:donovan.prevost.3005@gmail.com)
 
 </div>
