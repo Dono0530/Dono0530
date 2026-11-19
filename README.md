@@ -65,7 +65,7 @@ J’aime transformer un besoin en solution concrète, avec une attention particu
 
 <img src="assets/neon-divider.svg" width="100%" alt="">
 
-<div align="center"><img src="assets/section-academic.svg" width="100%" alt="03 — Projets académiques"></div>
+<div align="center"><img src="assets/section-academic-v2.svg" width="100%" alt="03 — Projets académiques"></div>
 
 <a href="https://github.com/Dono0530/S1.01-Platformer">
 <img src="assets/project-platformer.svg" alt="Jeu de Plateforme 2D — jeu vidéo Java avec gestion de la physique et des collisions." width="100%">
@@ -87,7 +87,7 @@ J’aime transformer un besoin en solution concrète, avec une attention particu
 
 <img src="assets/neon-divider.svg" width="100%" alt="">
 
-<div align="center"><img src="assets/section-education.svg" width="100%" alt="04 — Formation"></div>
+<div align="center"><img src="assets/section-education-v2.svg" width="100%" alt="04 — Formation"></div>
 
 <img src="assets/education.svg" alt="Formation — BUT Informatique à l’Université du Havre, développement logiciel, web et mobile." width="100%">
 
@@ -95,7 +95,7 @@ J’aime transformer un besoin en solution concrète, avec une attention particu
 
 <div align="center">
 
-<img src="assets/section-contact.svg" width="100%" alt="05 — Contact">
+<img src="assets/section-contact-v2.svg" width="100%" alt="05 — Contact">
 
 Ouvert aux échanges autour du développement logiciel, des projets web et des collaborations.
 
