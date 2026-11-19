@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="184" viewBox="0 0 1200 184" role="img" aria-labelledby="title desc">
+<title id="title">MateZone — Donovan Prévost</title><desc id="desc">Chat en temps réel. Java · WebSockets · Architecture hexagonale · MySQL.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1730"/><stop offset="1" stop-color="#161a35"/></linearGradient><linearGradient id="accent"><stop stop-color="#57d9ff"/><stop offset="1" stop-color="#ff6fae"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="9"/></filter></defs>
+<rect x="2" y="2" width="1196" height="180" rx="22" fill="url(#bg)" stroke="#294367" stroke-width="2"/>
+<rect x="2" y="2" width="7" height="180" rx="3" fill="url(#accent)"/>
+<circle cx="1100" cy="70" r="72" fill="#ff6fae" opacity=".08" filter="url(#glow)"/>
+<path d="M820 154H1155" stroke="url(#accent)" stroke-opacity=".55" stroke-width="2"/>
+<circle cy="154" r="5" fill="#ff8bc1"><animate attributeName="cx" values="820;1155;820" dur="5s" repeatCount="indefinite"/></circle>
+<rect x="40" y="27" width="172" height="30" rx="15" fill="#ff6fae" fill-opacity=".15" stroke="#ff6fae" stroke-opacity=".65"/>
+<text x="126" y="47" fill="#ff8bc1" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="1">01  /  PROJET PHARE</text>
+<text x="40" y="101" fill="#f5f8ff" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="700">MateZone</text>
+<text x="40" y="130" fill="#c2d4ed" font-family="Segoe UI,Arial,sans-serif" font-size="17">Chat en temps réel</text>
+<text x="40" y="162" fill="#ff8bc1" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Java · WebSockets · Architecture hexagonale · MySQL</text>
+<path d="M1115 43l22 22m0-22l-22 22" stroke="#ff8bc1" stroke-width="2.5" stroke-linecap="round" opacity=".8"/>
+</svg>
