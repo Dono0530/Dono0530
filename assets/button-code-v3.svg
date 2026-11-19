@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="48" viewBox="0 0 172 48" role="img" aria-label="CODE SOURCE">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#117ba8"/><stop offset="1" stop-color="#132544"/></linearGradient></defs>
+<rect x="1" y="1" width="170" height="46" rx="13" fill="url(#g)" stroke="#88dfff" stroke-opacity=".62"/><path d="M14 42H158" stroke="#ff8fc0" stroke-opacity=".38"/>
+<path d="m29 18-8 8 8 8m12-16 8 8-8 8m-3-13-6 10" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><text x="58" y="29" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing=".5">CODE SOURCE</text></svg>
