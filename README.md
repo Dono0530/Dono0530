@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://dono0530.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visiter-EC4C9B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/donovan-pr%C3%A9vost/"><img src="https://img.shields.io/badge/LinkedIn- me_contacter-1687C9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/donovan-pr%C3%A9vost/"><img src="https://img.shields.io/badge/LinkedIn-Me_contacter-1687C9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:donovan.prevost.3005@gmail.com"><img src="https://img.shields.io/badge/Email-Échanger-263B5A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
