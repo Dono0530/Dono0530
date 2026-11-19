@@ -1,51 +1,89 @@
-# Donovan Prévost
+<div align="center">
 
-### Étudiant en BUT Informatique · Développement logiciel, web & mobile
+<img src="assets/profile-banner.svg" alt="Bannière Donovan Prévost" width="100%">
 
-[Portfolio](https://dono0530.github.io/Portfolio/)　·　[LinkedIn](https://www.linkedin.com/in/donovan-pr%C3%A9vost/)　·　[Me contacter](mailto:donovan.prevost.3005@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visiter-EC4C9B?style=for-the-badge)](https://dono0530.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Contact-167DB5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donovan-pr%C3%A9vost/)
+[![Email](https://img.shields.io/badge/EMAIL-Échanger-273858?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donovan.prevost.3005@gmail.com)
 
-> **Concevoir, développer et faire évoluer des applications utiles.**  
-> Étudiant à l’Université du Havre, je m’intéresse à la conception logicielle, au développement web et aux applications mobiles. J’aime structurer les projets avec soin et travailler en équipe, de l’idée à la réalisation.
+</div>
 
----
+## Profil
 
-## Projets sélectionnés
+Étudiant en **BUT Informatique à l’Université du Havre**, je développe des applications web, mobiles et logicielles. J’aime transformer un besoin en solution concrète, avec une attention particulière à la structure du code, à l’expérience utilisateur et au travail en équipe.
 
-### 01 · MateZone
-**Chat en temps réel — Java, WebSockets, MySQL**
+## Projets à découvrir
 
-Application de discussion conçue autour d’une architecture hexagonale, avec échanges en temps réel et persistance des données.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-[Code source](https://github.com/Joshua-Hermilly/MateZone)　·　[Site du projet](https://www.m8yuriko.fr)
+### 🚀 MateZone
+**Chat en temps réel**
 
-### 02 · Profilage Parcoursup
-**Application web — PHP 8, PostgreSQL, Twig, JavaScript**
+Application de discussion développée en Java, avec WebSockets, architecture hexagonale et persistance MySQL.
 
-Application de profilage et de visualisation de données de candidature. Le projet utilise une architecture MVC, des repositories PDO et des vues Twig.
+**Stack**  
+Java · WebSockets · MySQL
+
+[Code source](https://github.com/Joshua-Hermilly/MateZone) · [Site](https://www.m8yuriko.fr)
+
+</td>
+<td width="33%" valign="top">
+
+### 📊 Profilage Parcoursup
+**Application web de données**
+
+Outil de profilage et de visualisation de candidatures, organisé selon une architecture MVC.
+
+**Stack**  
+PHP 8 · PostgreSQL · Twig · JavaScript
 
 [Voir le dépôt](https://github.com/Dono0530/Profilage-Parcoursup)
 
-### 03 · MateSpace
-**Jeu Android — Java**
+</td>
+<td width="33%" valign="top">
 
-Jeu de tir spatial où le joueur pilote un vaisseau et tente de survivre à des vagues d’ennemis.
+### 🪐 MateSpace
+**Jeu Android**
+
+Jeu de tir spatial où le joueur pilote un vaisseau et survit à des vagues d’ennemis.
+
+**Stack**  
+Java · Android
 
 [Voir le dépôt](https://github.com/Dono0530/MateSpace)
 
----
+</td>
+</tr>
+</table>
 
 ## Compétences
 
-| Domaine | Technologies |
-| --- | --- |
-| **Langages** | Java · PHP · JavaScript · HTML5 · CSS3 |
-| **Frameworks & interfaces** | Symfony · Vue.js · Angular · Bootstrap · Twig |
-| **Bases de données** | PostgreSQL · MySQL · SQL |
-| **Outils & environnements** | Git · Docker · Linux · Android Studio · Windows |
+<p>
+<img src="https://img.shields.io/badge/Java-1679A8?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/PHP-747DBA?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/JavaScript-E9C94A?style=for-the-badge&logo=javascript&logoColor=20232A" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-D95C76?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-288FC1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+<p>
+<img src="https://img.shields.io/badge/Symfony-26334A?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
+<img src="https://img.shields.io/badge/Vue.js-3B9B83?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
+<img src="https://img.shields.io/badge/Angular-D94B78?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+<img src="https://img.shields.io/badge/Twig-7FAE72?style=for-the-badge&logo=twig&logoColor=white" alt="Twig">
+</p>
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-3976A8?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MySQL-177EAA?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/Git-E36B78?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Docker-258FC1?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Linux-34435D?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+<img src="https://img.shields.io/badge/Android%20Studio-3E9B83?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
+</p>
 
----
-
-## Autres projets
+## Projets académiques
 
 | Projet | Description | Technologies | Dépôt |
 | --- | --- | --- | --- |
@@ -55,16 +93,8 @@ Jeu de tir spatial où le joueur pilote un vaisseau et tente de survivre à des 
 
 ---
 
-## Parcours
-
-**BUT Informatique** · Université du Havre
-
----
-
 <div align="center">
 
-*Ouvert aux échanges autour du développement logiciel et de nouveaux projets.*
-
-**[Portfolio](https://dono0530.github.io/Portfolio/)　·　[LinkedIn](https://www.linkedin.com/in/donovan-pr%C3%A9vost/)　·　[Email](mailto:donovan.prevost.3005@gmail.com)**
+*Disponible pour échanger autour du développement logiciel et de nouveaux projets.*
 
 </div>
