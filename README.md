@@ -100,7 +100,7 @@ Déploiement d’applications conteneurisées et virtualisation sous Linux.
 
 <img src="assets/neon-divider.svg" width="100%" alt="">
 
-<div align="center"><img src="assets/section-education.svg" width="100%" alt="05 — Formation"></div>
+<div align="center"><img src="assets/section-education.svg" width="100%" alt="04 — Formation"></div>
 
 <div align="center">
 
@@ -116,7 +116,7 @@ Développement logiciel · applications web · applications mobiles
 
 <div align="center">
 
-<img src="assets/section-contact.svg" width="100%" alt="06 — Contact">
+<img src="assets/section-contact.svg" width="100%" alt="05 — Contact">
 
 Ouvert aux échanges autour du développement logiciel, des projets web et des collaborations.
 
